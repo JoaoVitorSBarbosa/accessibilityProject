@@ -1,0 +1,1 @@
+java -cp .:/usr/java/lib/cmudict04.jar:/usr/java/lib/cmulex.jar:/usr/java/lib/cmu_time_awb.jar:/usr/java/lib/cmutimelex.jar:/usr/java/lib/cmu_us_kal.jar:/usr/java/lib/en_us.jar:/usr/java/lib/freetts.jar:/usr/java/lib/freetts-jsapi10.jar:/usr/java/lib/jsapi.jar:/usr/java/lib/mbrola.jar class/Main

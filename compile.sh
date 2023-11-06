@@ -1,0 +1,1 @@
+javac -cp .:lib/cmudict04.jar:lib/cmulex.jar:lib/cmu_time_awb.jar:lib/cmutimelex.jar:lib/cmu_us_kal.jar:lib/en_us.jar:lib/freetts.jar:lib/freetts-jsapi10.jar:lib/jsapi.jar:lib/mbrola.jar -d class src/*.java
